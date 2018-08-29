@@ -26,9 +26,10 @@ To tally up total contributions from the first half of the year from specific do
 
 ## Get the data
 
-* Donors to candidate and party committees, 1/3/2018-7/1/2018 (Excel)
-* Donors to candidate and party committees, 1/3/2018-7/1/2018 (CSV)
+* [Donors to candidate and party committees, 1/3/2018-7/1/2018 (Excel)](https://github.com/wraldata/session-ban-data/raw/master/donors0103-0701.xlsx)
+* [Donors to candidate and party committees, 1/3/2018-7/1/2018 (CSV)](https://github.com/wraldata/session-ban-data/raw/master/donors0103-0701.csv)
 
 ## Read the story
 
 * [CEOs gave heavily during legislative session, exposing loophole in NC's fundraising ban](http://wral.com/17716104)
+* [Methodology](http://wral.com/17745001)
